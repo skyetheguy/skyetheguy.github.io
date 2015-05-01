@@ -16,3 +16,35 @@
 	font-size: 0.7em;
 	font-weight: bold;
 }
+
+.carousel-head
+{
+	color: red;
+	position: absolute;
+	text-align: left;
+	left: -1em;
+	font-size: 5em;
+	
+	
+}
+
+.car-head2
+{
+	color: yellow;
+}
+
+.carousel-caption
+{
+	top: 1em;
+	bottom: 1em;
+	right: 0em;
+	left: 0em;
+	position : absolute;
+}
+
+.car-btn
+{
+	position: absolute;
+	bottom: 0em;
+	right: 0em;
+}
