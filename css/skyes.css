@@ -1,0 +1,18 @@
+#prof-pic
+{
+	height: 25em;
+	width: 25em;
+}
+
+#flag
+{
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.contact
+{
+	font-size: 0.7em;
+	font-weight: bold;
+}
