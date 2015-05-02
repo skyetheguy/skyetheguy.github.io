@@ -48,3 +48,17 @@
 	bottom: 0em;
 	right: 0em;
 }
+
+#aristotle
+{
+	margin-right: auto;
+	margin-left: auto;
+	height: 50%;
+	width: 90%%;
+}
+
+#bb
+{
+	top: -25%;                         
+   	transform: translate(0, 25%)
+} 
