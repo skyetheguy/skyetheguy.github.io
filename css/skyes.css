@@ -1,7 +1,10 @@
 #prof-pic
 {
+	margin-bottom: 5em;
+	margin-top: -1em;
 	height: 25em;
 	width: 25em;
+
 }
 
 #flag
@@ -119,4 +122,9 @@ p
 .web-custom
 {
 	color: #0A0A0A;
+}
+
+.portfolio-modal p
+{
+	color: black;
 }
