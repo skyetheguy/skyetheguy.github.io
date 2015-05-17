@@ -128,3 +128,14 @@ footer a:hover > .web-custom
 {
 	color: black;
 }
+
+.hr-custom
+{
+	border:1px solid #1A1A1A;
+}
+
+.main
+{
+	font-weight: bold;
+	color: #0099FF;
+}
