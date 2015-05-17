@@ -62,3 +62,61 @@
 	top: -25%;                         
    	transform: translate(0, 25%)
 } 
+
+#picmodal
+{
+	margin-left: 4em;
+}
+
+#skills
+{
+	margin-top: 5%;
+}
+
+.navbar-custom 
+{
+	background-color: #000000;
+}
+
+.footer-above-custom 
+{
+	background-color: #0A0A0A;
+	padding-top: 50px;
+	
+}
+
+.footer-below-custom 
+{
+	background-color: #000000;
+	padding: 25px 0;
+}
+
+.text-custom
+{
+	color: #CCCCCC;
+}
+
+.background-custom
+{
+	background-color: #313131;
+}
+
+hr.star-dark:after {
+    color: #CCCCCC;
+    background-color: #1A1A1A;
+}
+
+.resume-button-custom
+{
+	background-color: black;
+}
+
+p
+{
+	color: #CCCCCC;
+}
+
+.web-custom
+{
+	color: #0A0A0A;
+}

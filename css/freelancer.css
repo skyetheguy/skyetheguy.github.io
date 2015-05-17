@@ -58,21 +58,21 @@ hr.star-primary:after {
 }
 
 hr.star-light {
-    border-color: #fff;
+    border-color: #313131;
 }
 
 hr.star-light:after {
-    color: #fff;
-    background-color: #18bc9c;
+    color: #CCCCCC;
+    background-color: #1A1A1A;
 }
 
 hr.star-primary {
-    border-color: #2c3e50;
+    border-color: #1A1A1A;
 }
 
 hr.star-primary:after {
-    color: #2c3e50;
-    background-color: #fff;
+    color: #CCCCCC;
+    background-color: #313131;
 }
 
 .img-centered {
@@ -82,7 +82,7 @@ hr.star-primary:after {
 header {
     text-align: center;
     color: #fff;
-    background: #18bc9c;
+    background: #1A1A1A;
 }
 
 header .container {
@@ -181,7 +181,7 @@ section h2 {
 
 section.success {
     color: #fff;
-    background: #18bc9c;
+    background: #1A1A1A;
 }
 
 section.success a,
@@ -262,10 +262,10 @@ section.success a.active {
 
 .btn-outline {
     margin-top: 15px;
-    border: solid 2px #fff;
+    border: solid 3px white;
     font-size: 20px;
     color: #fff;
-    background: 0 0;
+    background:#CCCCCC;
     transition: all .3s ease-in-out;
 }
 
@@ -273,7 +273,7 @@ section.success a.active {
 .btn-outline:focus,
 .btn-outline:active,
 .btn-outline.active {
-    border: solid 2px #fff;
+    border: solid 3px black;
     color: #18bc9c;
     background: #fff;
 }
@@ -282,7 +282,7 @@ section.success a.active {
     position: relative;
     margin-bottom: 0;
     padding-bottom: .5em;
-    border-bottom: 1px solid #eee;
+    border-bottom: 1px solid #1A1A1A;
 }
 
 .floating-label-form-group input,
@@ -331,7 +331,7 @@ section.success a.active {
 }
 
 form .row:first-child .floating-label-form-group {
-    border-top: 1px solid #eee;
+    border-top: 1px solid #1A1A1A;
 }
 
 footer {
