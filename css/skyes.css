@@ -1,9 +1,9 @@
 #prof-pic
 {
 	margin-bottom: 5em;
-	margin-top: -1em;
-	height: 25em;
-	width: 25em;
+	margin-top: -3em;
+	height: 30em;
+	width: 30em;
 
 }
 
@@ -109,11 +109,6 @@ hr.star-dark:after {
     background-color: #1A1A1A;
 }
 
-.resume-button-custom
-{
-	background-color: black;
-}
-
 p
 {
 	color: #CCCCCC;
@@ -122,6 +117,11 @@ p
 .web-custom
 {
 	color: #0A0A0A;
+}
+
+footer a:hover > .web-custom
+{
+	color: #00804C;
 }
 
 .portfolio-modal p
