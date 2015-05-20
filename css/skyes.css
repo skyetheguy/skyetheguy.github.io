@@ -22,19 +22,16 @@
 
 .carousel-head
 {
-	color: red;
+	color: #4DDB94;
 	position: absolute;
 	text-align: left;
 	left: -1em;
 	font-size: 5em;
+	text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
 	
 	
 }
 
-.car-head2
-{
-	color: yellow;
-}
 
 .carousel-caption
 {
@@ -60,21 +57,14 @@
 	width: 90%%;
 }
 
-#bb
-{
-	top: -25%;                         
-   	transform: translate(0, 25%)
-} 
 
 #picmodal
 {
-	margin-left: 4em;
+	margin-left: -4em;
+
 }
 
-#skills
-{
-	margin-top: 5%;
-}
+
 
 .navbar-custom 
 {
@@ -138,4 +128,10 @@ footer a:hover > .web-custom
 {
 	font-weight: bold;
 	color: #0099FF;
+}
+
+#aristotle
+{
+	height: 105%;
+	width: 105%;
 }
