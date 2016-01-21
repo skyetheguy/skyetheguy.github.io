@@ -141,3 +141,9 @@ body {
     zoom: 0.8; /* Other non-webkit browsers */
     zoom: 80%; /* Webkit browsers */
 }
+
+
+#page-top.index
+{
+	padding-bottom: 0px;
+}
